@@ -1,15 +1,15 @@
-20210031|Romero Morales, Gabriela|Ingeniería Civil|99.0
-20210032|Ramírez Sánchez, Fernando|Economía|89.3
-20210033|Flores Torres, Daniela|Ingeniería Civil|68.4
-20210034|Castillo Castillo, Carlos|Ingeniería en Sistemas|98.2
-20210035|Jiménez Hernández, Laura|Comunicación|87.4
-20210036|Morales Jiménez, Andrés|Derecho|67.6
-20210037|González Rodríguez, Fernando|Administración|90.8
-20210038|Castillo Ortiz, Valentina|Medicina|85.3
-20210039|Ortiz Sánchez, Manuel|Medicina|90.9
-20210040|Romero Morales, Ana|Arquitectura|90.1
-20210041|Ortiz Vargas, Gabriela|Ingeniería Civil|87.7
-20210042|Torres Castillo, María|Arquitectura|69.6
-20210043|López Gómez, María|Medicina|98.4
-20210044|Ramírez Hernández, Jorge|Administración|74.5
-20210045|Ortiz Jiménez, Gabriela|Comunicación|84.1
+20210031|Sánchez Ortiz, Carlos|Psicología|69.2
+20210032|Castillo Jiménez, María|Ingeniería Industrial|95.3
+20210033|Díaz Martínez, Laura|Ingeniería Civil|98.3
+20210034|Romero Rodríguez, Sofía|Comunicación|66.2
+20210035|Flores Jiménez, María|Derecho|73.2
+20210036|García Flores, María|Comunicación|80.6
+20210037|Sánchez Castillo, Carlos|Psicología|69.8
+20210038|Rodríguez Hernández, Laura|Ingeniería Civil|74.6
+20210039|Martínez Morales, Jorge|Medicina|92.6
+20210040|Morales Castillo, Miguel|Economía|72.3
+20210041|Rivera Romero, Valentina|Comunicación|61.6
+20210042|Martínez Romero, Sofía|Comunicación|83.3
+20210043|Díaz Díaz, Manuel|Administración|66.6
+20210044|González Hernández, Jorge|Ingeniería Industrial|81.8
+20210045|Hernández Rodríguez, Manuel|Ingeniería en Sistemas|99.1

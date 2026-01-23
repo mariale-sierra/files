@@ -1,15 +1,15 @@
-20210001|García Ramírez, José|Arquitectura|68.9
-20210002|Jiménez Martínez, José|Comunicación|76.9
-20210003|Martínez Pérez, María|Arquitectura|80.2
-20210004|Jiménez Pérez, María|Ingeniería Industrial|76.8
-20210005|Vargas Ramírez, Gabriela|Ingeniería en Sistemas|90.4
-20210006|Díaz Flores, Pedro|Administración|66.2
-20210007|Rodríguez Martínez, Camila|Ingeniería Civil|63.9
-20210008|Romero Ramírez, Andrés|Ingeniería en Sistemas|89.2
-20210009|Rodríguez Gómez, Jorge|Medicina|82.1
-20210010|Rivera Vargas, Manuel|Arquitectura|88.2
-20210011|Sánchez Torres, Carlos|Medicina|94.2
-20210012|Gómez Ramírez, José|Economía|85.4
-20210013|González Rivera, Andrés|Psicología|68.4
-20210014|Martínez Romero, Valentina|Derecho|81.4
-20210015|González Morales, Miguel|Ingeniería Civil|70.8
+20210001|García Rivera, Sofía|Ingeniería en Sistemas|95.1
+20210002|Ramírez Pérez, Jorge|Ingeniería Industrial|62.4
+20210003|Torres Ramírez, Pedro|Medicina|95.0
+20210004|Díaz Hernández, Andrés|Derecho|93.3
+20210005|Martínez Ramírez, Gabriela|Ingeniería Industrial|65.9
+20210006|Rivera Morales, María|Comunicación|80.3
+20210007|López Castillo, Camila|Ingeniería Industrial|80.3
+20210008|López López, Gabriela|Arquitectura|89.1
+20210009|Ramírez García, Camila|Ingeniería Industrial|64.7
+20210010|Díaz Díaz, María|Ingeniería Industrial|82.1
+20210011|Vargas Morales, Andrés|Arquitectura|62.3
+20210012|Gómez Hernández, Pedro|Psicología|61.4
+20210013|Hernández Flores, Laura|Arquitectura|79.6
+20210014|García Ortiz, Miguel|Arquitectura|69.1
+20210015|García Sánchez, Jorge|Arquitectura|93.1
