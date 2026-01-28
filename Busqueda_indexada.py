@@ -5,7 +5,6 @@ def busqueda_indexada(carne_buscado):
     archivos_recorridos = 0
     lineas_recorridas = 0
     inicio = time.perf_counter()
-
     
     with open("indice_estudiantes.txt", "r", encoding="utf-8") as indice:
         for linea in indice:
@@ -15,24 +14,15 @@ def busqueda_indexada(carne_buscado):
             if carne == carne_buscado:
                 archivos_recorridos = 1 
                 ruta = os.path.join("datos", archivo)
-
                 
                 with open(ruta, "r", encoding="utf-8") as f:
                     f.seek(int(offset))
-                    registro = ""
-
-                    while True:
-                        char = f.read(1)
-                        if char == "|" or char == "":
-                            break
-                        registro += char
+                    linea_completa = f.readline().strip()
+                    campos = linea_completa.split("|")
+                    nombre = campos[1] if len(campos) > 1 else "Desconocido"
 
                 fin = time.perf_counter()
                 tiempo_ejecucion = fin - inicio
-
-                
-                partes = registro.split("-")
-                nombre = partes[1] if len(partes) > 1 else "Desconocido"
 
                 return (
                     f"Estudiante Encontrado: {nombre} con carné {carne}. "
